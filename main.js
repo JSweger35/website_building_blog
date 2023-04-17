@@ -3,7 +3,7 @@ const container = document.querySelector('#container');
 
 const p1 = document.createElement('div');
 p1.classList.add('p1');
-p1.textContent = "This is day two of creating my own  website. I'm adding a card style approach to the pag and whatever else feels right after that."
+p1.textContent = "This is day two of creating my own  website. I'm adding a card style approach to the page and whatever else feels right after that."
 container.appendChild(p1);
 
 const p2 = document.createElement('div');
