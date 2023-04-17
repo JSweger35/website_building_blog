@@ -13,5 +13,6 @@ body{
     margin: 10px;
     background-color:aquamarine;
     border-radius: 10px;
+    flex-direction: column;
 }
 
