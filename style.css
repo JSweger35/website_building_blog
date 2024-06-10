@@ -8,7 +8,7 @@ body{
 
 #container{
     display: flex;
-    width: 800px;
+    width: auto;
     height: auto;
     padding: 10px;
     margin: 10px;
